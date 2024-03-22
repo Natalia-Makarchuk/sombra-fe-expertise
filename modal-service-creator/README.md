@@ -1,4 +1,4 @@
-# This codebase introduces a flexible and modular approach to managing modal dialogs in a React application. 
+### This codebase introduces a flexible and modular approach to managing modal dialogs in a React application. 
 
 **It consists of four core components:**
 
